@@ -18,4 +18,15 @@ export default {
 </script>
 
 <style lang="css">
+#auth {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.authForm {
+    background: #fff;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
 </style>

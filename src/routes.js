@@ -11,7 +11,7 @@ var router = new VueRouter({
     {
       path: '/auth',
       component: Auth,
-      redirect: '/auth/login'
+      redirect: '/auth/login',
       children: [
         {
           path: 'login',
