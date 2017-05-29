@@ -22,8 +22,6 @@ var router = new VueRouter({
           component: Register
         }
       ]
-
-
     }
   ]
 });
